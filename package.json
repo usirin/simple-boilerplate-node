@@ -9,6 +9,7 @@
   "author": "Umut Sirin <umutsirin1@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "expect": "^1.16.0",
     "gulp": "^3.9.1",
     "mocha": "^2.4.5",
     "nodemon": "^1.9.1"
