@@ -1,7 +1,9 @@
-const expect = require('expect')
+import expect from 'expect'
+
+import mod from '../src'
 
 describe('module', () => {
   it('works', () => {
-    expect(true).toBe(true)
+    expect(mod()).toBe('foo')
   })
 })
