@@ -1,6 +1,5 @@
-expect = require 'expect'
-
-mod = require '../src'
+import expect from 'expect'
+import mod from '../src'
 
 describe 'module', ->
   it 'works', ->
