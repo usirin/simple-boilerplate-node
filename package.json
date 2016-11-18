@@ -16,6 +16,10 @@
   "license": "MIT",
   "devDependencies": {
     "coffee-script": "^1.10.0",
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.18.2",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.18.0",
+    "babel-register": "^6.18.0",
     "expect": "^1.20.2",
     "mocha": "^3.0.0"
   },
